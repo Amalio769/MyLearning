@@ -1094,6 +1094,10 @@ func divide(l, r int) (result int, ok bool) {
 }
 ```
 > The consensus is that `naked` returns can be very confusing, it can become difficult to understand where those result came from or where the last calculation was performed.
+#### Dealing with Optional Parameters
+Go does not support optional parameters or method overloading, as it may be confusing or fragile in practice. However, there are occasions, where optional parameters are useful — often in initialization.
+
+You’ll find some of these practices [below](https://petomalina.medium.com/dealing-with-optional-parameters-in-go-9780f9bfbd1d), ranging from most verbose options to more parametrized, and extendable.
 ### Packages
 
 ### Documenting Code
