@@ -52,6 +52,9 @@
 * [CSP (Communicating Sequential Process)](#csp-communicating-sequential-process)
 * [Goroutines](#goroutines)
 * [WaitGroups](#waitgroups)
+* [Channels](#channels)
+* [Testing](#testing)
+	* [Testing and validating input in Go](#testing-and-validating-input-in-go)
 ---
 ## The Go Toolchain and Install Go
 * The Go toolchain
@@ -1693,3 +1696,5 @@ FAIL
 FAIL	demo	0.176s
 FAIL
 ```
+### Testing and validating input in Go
+[Article](https://hackwild.com/article/go-input-validation-and-testing/)
