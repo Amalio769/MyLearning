@@ -1,1 +1,3 @@
 # MyLearning
+
+[<img src="./images/Gopher.png" width="200" height="200">](https://github.com/Amalio769/MyLearning/blob/686ac23d6dd06de7820b2d6f72581a50694d13d2/go/README.md) [<img src="./images/python-logo-only.png" width="200" height="200">](https://github.com/Amalio769/MyLearning/blob/9ab2e024eb26ac951a45c88440fd14672bc94018/python/README.md) [<img src="./images/git.png" width="200" height="200">](https://github.com/Amalio769/MyLearning/blob/124eb31dc0e4d0b5772d431b2fbb734eece78913/git/README.md)
