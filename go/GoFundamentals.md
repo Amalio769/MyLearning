@@ -55,6 +55,7 @@
 * [Channels](#channels)
 * [Testing](#testing)
 	* [Testing and validating input in Go](#testing-and-validating-input-in-go)
+* [Lecturas interesantes](#lecturas-interesantes)
 ---
 ## The Go Toolchain and Install Go
 * The Go toolchain
