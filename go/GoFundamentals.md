@@ -55,7 +55,9 @@
 * [Channels](#channels)
 * [Testing](#testing)
 	* [Testing and validating input in Go](#testing-and-validating-input-in-go)
-* [Lecturas interesantes](#lecturas-interesantes)
+* [Lecturas interesantes]()
+	* [The Complete Guide to Context in Golang: Efficient Concurrency Management](https://medium.com/@jamal.kaksouri/the-complete-guide-to-context-in-golang-efficient-concurrency-management-43d722f6eaea)
+	* [Understanding the Power of Go Interfaces: A Comprehensive Guide](https://medium.com/@jamal.kaksouri/understanding-the-power-of-go-interfaces-a-comprehensive-guide-835954101b7e)
 ---
 ## The Go Toolchain and Install Go
 * The Go toolchain
@@ -1699,6 +1701,3 @@ FAIL
 ```
 ### Testing and validating input in Go
 [Article](https://hackwild.com/article/go-input-validation-and-testing/)
-## Lecturas interesantes
-- [The Complete Guide to Context in Golang: Efficient Concurrency Management](https://medium.com/@jamal.kaksouri/the-complete-guide-to-context-in-golang-efficient-concurrency-management-43d722f6eaea)
-- [Understanding the Power of Go Interfaces: A Comprehensive Guide](https://medium.com/@jamal.kaksouri/understanding-the-power-of-go-interfaces-a-comprehensive-guide-835954101b7e)
