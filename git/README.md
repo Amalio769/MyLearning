@@ -1,5 +1,8 @@
 # My Git Learning
 ## Index
+* Cheat Sheets
+    * [Github Git](https://github.com/Amalio769/MyLearning/blob/master/git/Pictures/github-git-cheat-sheet.pdf)
+    * [Education](https://github.com/Amalio769/MyLearning/blob/master/git/Pictures/git-cheat-sheet-education.pdf)
 * [Fundamentals](#fundamentals)
     * [Merge](#merge)
 * [Advanced](#advanced)
