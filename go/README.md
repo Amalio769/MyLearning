@@ -18,3 +18,4 @@
     * [Go Standard Library Interfaces](https://gist.github.com/asukakenji/ac8a05644a2e98f1d5ea8c299541fce9)
     * [Important interfaces that every Go developer should know](https://www.iops.tech/blog/important-go-interfaces/)
     * [Making and Using HTTP Middleware](https://www.alexedwards.net/blog/making-and-using-middleware)
+    * [Writing HTTP Middleware in Go](https://justinas.org/writing-http-middleware-in-go)
