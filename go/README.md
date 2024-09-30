@@ -19,3 +19,4 @@
     * [Important interfaces that every Go developer should know](https://www.iops.tech/blog/important-go-interfaces/)
     * [Making and Using HTTP Middleware](https://www.alexedwards.net/blog/making-and-using-middleware)
     * [Writing HTTP Middleware in Go](https://justinas.org/writing-http-middleware-in-go)
+    * [Golang API Authorization By Example](https://developer.auth0.com/resources/guides/api/standard-library/basic-authorization#install-and-set-up-the-authorization-middleware)
