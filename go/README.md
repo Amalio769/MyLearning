@@ -20,3 +20,4 @@
     * [Making and Using HTTP Middleware](https://www.alexedwards.net/blog/making-and-using-middleware)
     * [Writing HTTP Middleware in Go](https://justinas.org/writing-http-middleware-in-go)
     * [Golang API Authorization By Example](https://developer.auth0.com/resources/guides/api/standard-library/basic-authorization#install-and-set-up-the-authorization-middleware)
+    * [JSON unmarshaling when a struct contains an interface field](https://gist.github.com/Northern-Lights/b2d01533b5a88389bab40a1053832445)
