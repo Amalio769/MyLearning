@@ -10,6 +10,7 @@
     * [Gin Fundamentals](https://github.com/Amalio769/MyLearning/blob/master/go/Gin1Fundamentals.md)
     * [Cheat Sheet](https://github.com/Amalio769/MyLearning/blob/master/go/Gin%20Cheat%20Sheet.Md)
 - [Links](https://github.com/Amalio769/MyLearning/blob/master/go/README.md)
+    * [Go Class (Youtube)](https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6)
     * [An introduction to packages, imports and modules](https://www.alexedwards.net/blog/an-introduction-to-packages-imports-and-modules)
 	* [The Complete Guide to Context in Golang: Efficient Concurrency Management](https://medium.com/@jamal.kaksouri/the-complete-guide-to-context-in-golang-efficient-concurrency-management-43d722f6eaea)
 	* [Understanding the Power of Go Interfaces: A Comprehensive Guide](https://medium.com/@jamal.kaksouri/understanding-the-power-of-go-interfaces-a-comprehensive-guide-835954101b7e)
