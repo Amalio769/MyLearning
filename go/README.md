@@ -3,6 +3,7 @@
 - [Fundamentals](https://github.com/Amalio769/MyLearning/blob/master/go/README.md)
     * [From web](https://github.com/Amalio769/MyLearning/blob/master/go/GoFundamentals.md)
     * [My Notes](https://github.com/Amalio769/MyLearning/blob/master/go/MyGoFundamentals.md)
+- [Go Style Guide](https://google.github.io/styleguide/go/index)
 - [Concurrent Programming in Go](https://github.com/Amalio769/MyLearning/blob/master/go/ConcurrentProgrammingInGo.md)
 - [Debugging in Go](https://github.com/Amalio769/MyLearning/blob/master/go/DebuggingInGo.md)
 - [Gin-Gonic](https://github.com/Amalio769/MyLearning/blob/master/go/README.md)
