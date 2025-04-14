@@ -1,13 +1,15 @@
 # My Git Learning
 ## Index
 * Cheat Sheets
-    * [Github Git](https://github.com/Amalio769/MyLearning/blob/master/git/Pictures/github-git-cheat-sheet.pdf)
-    * [Education](https://github.com/Amalio769/MyLearning/blob/master/git/Pictures/git-cheat-sheet-education.pdf)
+    * [Github Git](https://github.com/Amalio769/MyLearning/blob/master/docs/git/Pictures/github-git-cheat-sheet.pdf)
+    * [Education](https://github.com/Amalio769/MyLearning/blob/master/docs/git/Pictures/git-cheat-sheet-education.pdf)
 * [Fundamentals](#fundamentals)
     * [Merge](#merge)
 * [Advanced](#advanced)
     * [Merging vs. rebasing](#merging-vs-rebasing)
 * [Tips and Tricks](#tips-and-tricks)
+    * [Upload a Repository from laptop to Github](#upload-a-repository-from-laptop-to-github)
+    * [Create a Tag for the repo](#create-a-tag-for-the-repo)
 
 ## Fundamentals
 
@@ -39,7 +41,7 @@ git add .
 git commit -m "Initial commit"
 git push --set-upstream origin master
 ```
-* Create a `tag` for the repo
+### Create a `tag` for the repo
 ```bash
 git tag "v1.0.0"
 git push --tags
