@@ -3,6 +3,7 @@
 * Cheat Sheets
     * [Github Git](https://github.com/Amalio769/MyLearning/blob/master/docs/git/Pictures/github-git-cheat-sheet.pdf)
     * [Education](https://github.com/Amalio769/MyLearning/blob/master/docs/git/Pictures/git-cheat-sheet-education.pdf)
+    * [Git Cheat Sheet – 50 Git Commands You Should Know](https://www.freecodecamp.org/news/git-cheat-sheet/)
 * [Fundamentals](#fundamentals)
     * [Merge](#merge)
 * [Advanced](#advanced)
