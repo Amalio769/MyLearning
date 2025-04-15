@@ -9,7 +9,7 @@
     * [Docker Compose Devhints.io](https://devhints.io/docker-compose)
 
 ## Docker Compose
-
+```bash
 Usage:  docker compose [OPTIONS] COMMAND
 
 Define and run multi-container applications with Docker
@@ -70,3 +70,4 @@ Commands:
   watch       Watch build context for service and rebuild/refresh containers when files are updated
 
 Run 'docker compose COMMAND --help' for more information on a command.
+```
