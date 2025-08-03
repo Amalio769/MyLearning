@@ -1,4 +1,4 @@
 # MyPythonLearning
 My Python Learning
-* [behave](#mypythonlearning/docs/python/docs/behave/behave.md)
-* [PySpark](#mypythonlearning/docs/python/docs/pyspark/pyspark.md)
+* [behave](https://github.com/Amalio769/MyLearning/blob/master/docs/python/docs/behave/behave.md)
+* [PySpark](https://github.com/Amalio769/MyLearning/blob/master/docs/python/docs/pyspark/pyspark.md)
